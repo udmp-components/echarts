@@ -2,6 +2,6 @@
     "name": "echarts",
     "main": "echarts.min",
     "repos": "https://github.com/ecomfe/echarts.git",
-    "version": "2.3",
+    "version": "3.2.2",
     "description": "echarts2~~3"
 }
